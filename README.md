@@ -1,3 +1,5 @@
-# python3-kafka-module
-
+# Install
 pip3 install kafka-python
+
+# Description
+There are small simple utilites for kafka testing.
